@@ -1,6 +1,1 @@
-{
-   "devices":[
-    { "name":"Boiler" , "status":true },
-    { "name":"AC" , "status":false}
-   ]
-}
+{"devices":[{"name":"Boiler","status":true},{"name":"AC","status":false}]}
