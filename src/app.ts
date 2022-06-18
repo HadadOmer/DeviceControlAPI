@@ -21,4 +21,4 @@ app.use((req:Request, res:Response, next:NextFunction) => {
 
 
 var port = 1338;
-app.listen(port, () => console.log(`Device control client is running on port ${port}`));
+app.listen(port, () => console.log(`Device control api is running on port ${port}`));
